@@ -1,7 +1,7 @@
 ### Привет,я Юрий!
 
 ### Я Python(Django) разработчик
-
+Владею следующими технологиями: Python, Django Framework, Git
 <!--
 **yurialexpenkov/yurialexpenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
