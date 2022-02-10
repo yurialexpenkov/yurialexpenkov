@@ -1,6 +1,6 @@
 ### Привет,я Юрий!
 
-### Я Python(Django) разработчик
+### Я Python разработчик
 Владею следующими технологиями: Python, Django Framework, Django Rest Framework, Git
 
 ### Контактная информация:
